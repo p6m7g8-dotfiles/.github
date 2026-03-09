@@ -1,12 +1,105 @@
-## Hi there 👋
+# p6m7g8 Dotfiles Repositories
 
-<!--
+## Repositories
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- `p6m7g8-dotfiles/.github`
+- `p6m7g8-dotfiles/dotgithub`
+- `p6m7g8-dotfiles/gh-parallel`
+- `p6m7g8-dotfiles/p61password`
+- `p6m7g8-dotfiles/p6aws`
+- `p6m7g8-dotfiles/p6awscdk`
+- `p6m7g8-dotfiles/p6common`
+- `p6m7g8-dotfiles/p6df`
+- `p6m7g8-dotfiles/p6df-1password`
+- `p6m7g8-dotfiles/p6df-R`
+- `p6m7g8-dotfiles/p6df-akuity`
+- `p6m7g8-dotfiles/p6df-alfred`
+- `p6m7g8-dotfiles/p6df-argocd`
+- `p6m7g8-dotfiles/p6df-aws`
+- `p6m7g8-dotfiles/p6df-awscdk`
+- `p6m7g8-dotfiles/p6df-awssam`
+- `p6m7g8-dotfiles/p6df-azure`
+- `p6m7g8-dotfiles/p6df-bash`
+- `p6m7g8-dotfiles/p6df-c`
+- `p6m7g8-dotfiles/p6df-cdk8s`
+- `p6m7g8-dotfiles/p6df-claudecode`
+- `p6m7g8-dotfiles/p6df-cloudflare`
+- `p6m7g8-dotfiles/p6df-cloudsmith`
+- `p6m7g8-dotfiles/p6df-confluence`
+- `p6m7g8-dotfiles/p6df-copilot`
+- `p6m7g8-dotfiles/p6df-core`
+- `p6m7g8-dotfiles/p6df-cucumber`
+- `p6m7g8-dotfiles/p6df-darwin`
+- `p6m7g8-dotfiles/p6df-databricks`
+- `p6m7g8-dotfiles/p6df-datadog`
+- `p6m7g8-dotfiles/p6df-dbt`
+- `p6m7g8-dotfiles/p6df-docker`
+- `p6m7g8-dotfiles/p6df-eslint`
+- `p6m7g8-dotfiles/p6df-figma`
+- `p6m7g8-dotfiles/p6df-gcp`
+- `p6m7g8-dotfiles/p6df-gemini`
+- `p6m7g8-dotfiles/p6df-git`
+- `p6m7g8-dotfiles/p6df-github`
+- `p6m7g8-dotfiles/p6df-go`
+- `p6m7g8-dotfiles/p6df-granola`
+- `p6m7g8-dotfiles/p6df-graphql`
+- `p6m7g8-dotfiles/p6df-helm`
+- `p6m7g8-dotfiles/p6df-heroku`
+- `p6m7g8-dotfiles/p6df-homebrew`
+- `p6m7g8-dotfiles/p6df-huggingface`
+- `p6m7g8-dotfiles/p6df-irc`
+- `p6m7g8-dotfiles/p6df-java`
+- `p6m7g8-dotfiles/p6df-jenkins`
+- `p6m7g8-dotfiles/p6df-jira`
+- `p6m7g8-dotfiles/p6df-js`
+- `p6m7g8-dotfiles/p6df-julia`
+- `p6m7g8-dotfiles/p6df-jupyter`
+- `p6m7g8-dotfiles/p6df-kubernetes`
+- `p6m7g8-dotfiles/p6df-launchdarkly`
+- `p6m7g8-dotfiles/p6df-linkedin`
+- `p6m7g8-dotfiles/p6df-lua`
+- `p6m7g8-dotfiles/p6df-macosx`
+- `p6m7g8-dotfiles/p6df-mysql`
+- `p6m7g8-dotfiles/p6df-nmap`
+- `p6m7g8-dotfiles/p6df-oci`
+- `p6m7g8-dotfiles/p6df-okta`
+- `p6m7g8-dotfiles/p6df-openai`
+- `p6m7g8-dotfiles/p6df-oracle`
+- `p6m7g8-dotfiles/p6df-pagerduty`
+- `p6m7g8-dotfiles/p6df-perl`
+- `p6m7g8-dotfiles/p6df-pgsql`
+- `p6m7g8-dotfiles/p6df-playwright`
+- `p6m7g8-dotfiles/p6df-proxy`
+- `p6m7g8-dotfiles/p6df-python`
+- `p6m7g8-dotfiles/p6df-rails`
+- `p6m7g8-dotfiles/p6df-redis`
+- `p6m7g8-dotfiles/p6df-rippling`
+- `p6m7g8-dotfiles/p6df-ruby`
+- `p6m7g8-dotfiles/p6df-rust`
+- `p6m7g8-dotfiles/p6df-scala`
+- `p6m7g8-dotfiles/p6df-shell`
+- `p6m7g8-dotfiles/p6df-slack`
+- `p6m7g8-dotfiles/p6df-snowflake`
+- `p6m7g8-dotfiles/p6df-solidity`
+- `p6m7g8-dotfiles/p6df-sqlite`
+- `p6m7g8-dotfiles/p6df-sqlserver`
+- `p6m7g8-dotfiles/p6df-storybook`
+- `p6m7g8-dotfiles/p6df-sudo`
+- `p6m7g8-dotfiles/p6df-superset`
+- `p6m7g8-dotfiles/p6df-teleport`
+- `p6m7g8-dotfiles/p6df-terraform`
+- `p6m7g8-dotfiles/p6df-tmux`
+- `p6m7g8-dotfiles/p6df-vim`
+- `p6m7g8-dotfiles/p6df-vscode`
+- `p6m7g8-dotfiles/p6df-zoom`
+- `p6m7g8-dotfiles/p6df-zsh`
+- `p6m7g8-dotfiles/p6git`
+- `p6m7g8-dotfiles/p6github`
+- `p6m7g8-dotfiles/p6helm`
+- `p6m7g8-dotfiles/p6jenkins`
+- `p6m7g8-dotfiles/p6kubernetes`
+- `p6m7g8-dotfiles/p6macosx`
+- `p6m7g8-dotfiles/p6perl`
+- `p6m7g8-dotfiles/p6pgsql`
+- `p6m7g8-dotfiles/p6python`
+- `p6m7g8-dotfiles/p6sqlite`
