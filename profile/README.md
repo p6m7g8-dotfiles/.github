@@ -23,8 +23,9 @@
 - `p6m7g8-dotfiles/p6sqlite`: SQLite helpers
 
 ## p6df Plugins
+
+### A-E Plugins
 - `p6m7g8-dotfiles/p6df-1password`: p6df plugin for 1password
-- `p6m7g8-dotfiles/p6df-R`: p6df plugin for R
 - `p6m7g8-dotfiles/p6df-akuity`: p6df plugin for akuity
 - `p6m7g8-dotfiles/p6df-alfred`: p6df plugin for alfred
 - `p6m7g8-dotfiles/p6df-argocd`: p6df plugin for argocd
@@ -48,6 +49,8 @@
 - `p6m7g8-dotfiles/p6df-dbt`: p6df plugin for dbt
 - `p6m7g8-dotfiles/p6df-docker`: p6df plugin for docker
 - `p6m7g8-dotfiles/p6df-eslint`: p6df plugin for eslint
+
+### F-L Plugins
 - `p6m7g8-dotfiles/p6df-figma`: p6df plugin for figma
 - `p6m7g8-dotfiles/p6df-gcp`: p6df plugin for GCP
 - `p6m7g8-dotfiles/p6df-gemini`: p6df plugin for gemini
@@ -71,6 +74,9 @@
 - `p6m7g8-dotfiles/p6df-launchdarkly`: p6df plugin for launchdarkly
 - `p6m7g8-dotfiles/p6df-linkedin`: p6df plugin for linkedin
 - `p6m7g8-dotfiles/p6df-lua`: p6df plugin for lua
+
+### M-R Plugins
+- `p6m7g8-dotfiles/p6df-R`: p6df plugin for R
 - `p6m7g8-dotfiles/p6df-macosx`: p6df plugin for macosx
 - `p6m7g8-dotfiles/p6df-mysql`: p6df plugin for mysql
 - `p6m7g8-dotfiles/p6df-nmap`: p6df plugin for nmap
@@ -89,6 +95,8 @@
 - `p6m7g8-dotfiles/p6df-rippling`: p6df plugin for rippling
 - `p6m7g8-dotfiles/p6df-ruby`: p6df plugin for ruby
 - `p6m7g8-dotfiles/p6df-rust`: p6df plugin for rust
+
+### S-Z Plugins
 - `p6m7g8-dotfiles/p6df-scala`: p6df plugin for scala
 - `p6m7g8-dotfiles/p6df-shell`: p6df plugin for shell
 - `p6m7g8-dotfiles/p6df-slack`: p6df plugin for slack
@@ -106,3 +114,4 @@
 - `p6m7g8-dotfiles/p6df-vscode`: p6df plugin for vscode
 - `p6m7g8-dotfiles/p6df-zoom`: p6df plugin for zoom
 - `p6m7g8-dotfiles/p6df-zsh`: p6df plugin for zsh
+
