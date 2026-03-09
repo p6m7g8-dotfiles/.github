@@ -82,7 +82,6 @@
 - `p6m7g8-dotfiles/p6df-vscode`: p6df plugin for vscode
 
 ### Programming Languages
-- `p6m7g8-dotfiles/p6df-R`: p6df plugin for R
 - `p6m7g8-dotfiles/p6df-bash`: p6df plugin for bash
 - `p6m7g8-dotfiles/p6df-c`: p6df plugin for C
 - `p6m7g8-dotfiles/p6df-go`: p6df plugin for Go
@@ -92,6 +91,7 @@
 - `p6m7g8-dotfiles/p6df-lua`: p6df plugin for lua
 - `p6m7g8-dotfiles/p6df-perl`: p6df plugin for perl
 - `p6m7g8-dotfiles/p6df-python`: p6df plugin for python
+- `p6m7g8-dotfiles/p6df-R`: p6df plugin for R
 - `p6m7g8-dotfiles/p6df-rails`: p6df plugin for rails
 - `p6m7g8-dotfiles/p6df-ruby`: p6df plugin for ruby
 - `p6m7g8-dotfiles/p6df-rust`: p6df plugin for rust
