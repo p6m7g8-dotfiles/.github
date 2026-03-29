@@ -25,12 +25,16 @@
 ## p6df Plugins
 
 ### AI & LLM Tooling
-- `p6m7g8-dotfiles/p6df-claudecode`: p6df plugin for claudecode
+- `p6m7g8-dotfiles/p6df-anthropic`: p6df plugin for anthropic
+- `p6m7g8-dotfiles/p6df-chatgpt`: p6df plugin for chatgpt
+- `p6m7g8-dotfiles/p6df-claude`: p6df plugin for claude
+- `p6m7g8-dotfiles/p6df-codex`: p6df plugin for codex
 - `p6m7g8-dotfiles/p6df-copilot`: p6df plugin for copilot
 - `p6m7g8-dotfiles/p6df-gemini`: p6df plugin for gemini
 - `p6m7g8-dotfiles/p6df-granola`: p6df plugin for granola
 - `p6m7g8-dotfiles/p6df-huggingface`: p6df plugin for huggingface
 - `p6m7g8-dotfiles/p6df-openai`: p6df plugin for openai
+- `p6m7g8-dotfiles/p6df-whisper`: p6df plugin for whisper
 
 ### Cloud & Infrastructure
 - `p6m7g8-dotfiles/p6df-akuity`: p6df plugin for akuity
@@ -40,6 +44,7 @@
 - `p6m7g8-dotfiles/p6df-awssam`: p6df plugin for awssam
 - `p6m7g8-dotfiles/p6df-azure`: p6df plugin for azure
 - `p6m7g8-dotfiles/p6df-cdk8s`: p6df plugin for cdk8s
+- `p6m7g8-dotfiles/p6df-cisco`: p6df plugin for cisco
 - `p6m7g8-dotfiles/p6df-cloudflare`: p6df plugin for cloudflare
 - `p6m7g8-dotfiles/p6df-cloudsmith`: p6df plugin for cloudsmith
 - `p6m7g8-dotfiles/p6df-datadog`: p6df plugin for datadog
@@ -50,6 +55,8 @@
 - `p6m7g8-dotfiles/p6df-launchdarkly`: p6df plugin for launchdarkly
 - `p6m7g8-dotfiles/p6df-oci`: p6df plugin for OCI
 - `p6m7g8-dotfiles/p6df-pagerduty`: p6df plugin for pagerduty
+- `p6m7g8-dotfiles/p6df-signadot`: p6df plugin for signadot
+- `p6m7g8-dotfiles/p6df-statuspage`: p6df plugin for statuspage
 - `p6m7g8-dotfiles/p6df-teleport`: p6df plugin for teleport
 - `p6m7g8-dotfiles/p6df-terraform`: p6df plugin for terraform
 
@@ -77,7 +84,9 @@
 - `p6m7g8-dotfiles/p6df-jenkins`: p6df plugin for jenkins
 - `p6m7g8-dotfiles/p6df-nmap`: p6df plugin for nmap
 - `p6m7g8-dotfiles/p6df-playwright`: p6df plugin for playwright
+- `p6m7g8-dotfiles/p6df-postman`: p6df plugin for postman
 - `p6m7g8-dotfiles/p6df-proxy`: p6df plugin for proxy
+- `p6m7g8-dotfiles/p6df-pusher`: p6df plugin for pusher
 - `p6m7g8-dotfiles/p6df-storybook`: p6df plugin for storybook
 - `p6m7g8-dotfiles/p6df-vscode`: p6df plugin for vscode
 
@@ -101,12 +110,23 @@
 ### Collaboration & Productivity
 - `p6m7g8-dotfiles/p6df-1password`: p6df plugin for 1password
 - `p6m7g8-dotfiles/p6df-alfred`: p6df plugin for alfred
+- `p6m7g8-dotfiles/p6df-atlassian`: p6df plugin for atlassian
 - `p6m7g8-dotfiles/p6df-confluence`: p6df plugin for confluence
+- `p6m7g8-dotfiles/p6df-drata`: p6df plugin for drata
+- `p6m7g8-dotfiles/p6df-euc`: p6df plugin for euc
 - `p6m7g8-dotfiles/p6df-figma`: p6df plugin for figma
+- `p6m7g8-dotfiles/p6df-greenhouse`: p6df plugin for greenhouse
+- `p6m7g8-dotfiles/p6df-gws`: p6df plugin for gws
+- `p6m7g8-dotfiles/p6df-intacct`: p6df plugin for intacct
 - `p6m7g8-dotfiles/p6df-irc`: p6df plugin for IRC
 - `p6m7g8-dotfiles/p6df-jira`: p6df plugin for jira
+- `p6m7g8-dotfiles/p6df-lattice`: p6df plugin for lattice
 - `p6m7g8-dotfiles/p6df-linkedin`: p6df plugin for linkedin
+- `p6m7g8-dotfiles/p6df-loom`: p6df plugin for loom
+- `p6m7g8-dotfiles/p6df-m365`: p6df plugin for m365
+- `p6m7g8-dotfiles/p6df-miro`: p6df plugin for miro
 - `p6m7g8-dotfiles/p6df-okta`: p6df plugin for okta
+- `p6m7g8-dotfiles/p6df-oneschema`: p6df plugin for oneschema
 - `p6m7g8-dotfiles/p6df-rippling`: p6df plugin for rippling
 - `p6m7g8-dotfiles/p6df-slack`: p6df plugin for slack
 - `p6m7g8-dotfiles/p6df-zoom`: p6df plugin for zoom
@@ -120,4 +140,3 @@
 - `p6m7g8-dotfiles/p6df-tmux`: p6df plugin for tmux
 - `p6m7g8-dotfiles/p6df-vim`: p6df plugin for vim
 - `p6m7g8-dotfiles/p6df-zsh`: p6df plugin for zsh
-
